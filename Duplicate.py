@@ -8,6 +8,6 @@ def find():
         if i>=1:
             print(x,i)  
 	else:
-	    print("sorry")
+	    print("sorry")::
 
 find()
