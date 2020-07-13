@@ -6,7 +6,7 @@ def find():
     for x in validation_array:
         i=input.count(x)
         if i>=1:
-            print(x,i)
-	mohit
+            print(x,i)  
+	mohit karhana
 
 find()
