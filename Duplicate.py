@@ -3,8 +3,7 @@ def find():
     validation_array=["food","face","the","donation","coalition","econmy","sector","11"]
     input=input_str.split()
    
-    for x in validation_array:
-        i=input.count(x)
+
     
 
 find()
