@@ -7,6 +7,7 @@ def find():
         i=input.count(x)
         if i>=1:
             print(x,i)  
-	mohit karhana
+	else:
+	    print("sorry")
 
 find()
